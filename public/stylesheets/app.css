@@ -1,0 +1,30 @@
+/* all Icons with class of icon */
+i.icon {
+	font-size: 1.5em;
+}
+
+.container.main {
+	margin: 7.0em auto;
+}
+.extra {
+	margin: 2.0em auto;
+}
+
+#delete {
+	display: inline;
+}
+
+footer {
+	margin-top: 50px;
+	background-color: black;
+	opacity: 0.8;
+	color: White;
+	/* width: 60%; */
+	margin: auto;
+}
+
+footer p {
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
